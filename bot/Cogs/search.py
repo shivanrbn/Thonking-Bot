@@ -19,8 +19,6 @@ reddit = praw.Reddit(username='your reddit username here',
                      client_id='your reddit client id here',
                      client_secret='your reddit client secret here')
 
-#google
-num_page =1;
 
 igdb = igdb("Your igdb key here")
 
