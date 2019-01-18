@@ -1,0 +1,7 @@
+EQ = 'eq'
+GTE = 'gte'
+GT = 'gt'
+LTE = 'lte'
+LT = 'lt'
+PREFIX = 'prefix'
+EXISTS = 'exists'
